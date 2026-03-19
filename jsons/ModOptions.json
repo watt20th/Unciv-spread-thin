@@ -1,0 +1,15 @@
+{
+    "constants":
+    {
+        "cityWorkRange":12,
+        "cityExpandRange":12,
+	    "minimalCityDistance": 4,
+	    "minimalCityDistanceOnDifferentContinents": 3
+    },
+    "uniques": [ 
+        "Allow raze capital",
+        "Allow raze holy city",
+        "Can trade civilization introductions for [50] Gold",
+        "Can be used as permanent audiovisual mod"]
+
+}

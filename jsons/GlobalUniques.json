@@ -1,0 +1,22 @@
+{
+    "name": "Global uniques",
+    "uniques": [
+        "[-15]% Culture cost of natural border growth [in all cities]",
+        "[-15]% Gold cost of acquiring tiles [in all cities]",
+        "Cities are razed [10] times as fast",
+
+        "[+25]% Strength <for [{AI player} {Military}] units",
+        "[+30]% Strength <for [Military] units <vs cities> <when attacking>",
+
+        "[+25]% maintenance costs <for [Military] units> <starting from the [Ancient era]>",
+        "[+25]% maintenance costs <for [Military] units> <starting from the [Classical era]>",
+        "[+25]% maintenance costs <for [Military] units> <starting from the [Medieval era]>",
+        "[+25]% maintenance costs <for [Military] units> <starting from the [Renaissance era]>",
+        "[+25]% maintenance costs <for [Military] units> <starting from the [Industrial era]>",
+        "[+25]% maintenance costs <for [Military] units> <starting from the [Modern era]>",
+        "[+25]% maintenance costs <for [Military] units> <starting from the [Atomic era]>",
+        "[+25]% maintenance costs <for [Military] units> <starting from the [Information era]>",
+        "[-2] Unit Supply per city",
+        "[-9] Unit Supply per [1] population [in all cities]",
+    ]
+}
