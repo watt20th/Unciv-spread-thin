@@ -1,0 +1,1 @@
+Everything can be swiftly raze. Cities need distance of 4 but they grow up to 12 tile 15% faster. Maintenance increase at each age, also 1 supply per Pop and none from cities, units should be slightly stronger.
