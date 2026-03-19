@@ -5,8 +5,8 @@
         "[-15]% Gold cost of acquiring tiles [in all cities]",
         "Cities are razed [10] times as fast",
 
-        "[+25]% Strength <for [{AI player} {Military}] units",
-        "[+30]% Strength <for [Military] units <vs cities> <when attacking>",
+        "[+25]% Strength <for [{AI player} {Military}] units>",
+        "[+30]% Strength <for [Military] units> <vs cities> <when attacking>",
 
         "[+25]% maintenance costs <for [Military] units> <starting from the [Ancient era]>",
         "[+25]% maintenance costs <for [Military] units> <starting from the [Classical era]>",
