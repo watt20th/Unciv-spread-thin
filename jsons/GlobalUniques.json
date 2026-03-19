@@ -17,6 +17,6 @@
         "[+25]% maintenance costs <for [Military] units> <starting from the [Atomic era]>",
         "[+25]% maintenance costs <for [Military] units> <starting from the [Information era]>",
         "[-2] Unit Supply per city",
-        //"[-0] Unit Supply per [1] population [in all cities]",
+        "[-1] Unit Supply per [2] population [in all cities]",
     ]
 }
