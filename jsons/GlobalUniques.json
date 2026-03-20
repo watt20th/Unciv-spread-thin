@@ -1,7 +1,9 @@
 {
     "name": "Global uniques",
     "uniques": [
-        "[-15]% Culture cost of natural border growth [in all cities]",
+        "[-10]% Culture cost of natural border growth [in all cities] <in cities with at least [10] [Population]>",
+        "[-15]% Culture cost of natural border growth [in all cities] <in cities with at least [30] [Population]>", 
+        "[-25]% Culture cost of natural border growth [in all cities] <in cities with at least [60] [Population]>", 
         "[-15]% Gold cost of acquiring tiles [in all cities]",
         "Cities are razed [10] times as fast",
 
