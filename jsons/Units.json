@@ -3,7 +3,7 @@
         "name": "Settler",
         "unitType": "Civilian",
         "movement": 2,
-        "cost": 150,
+        "cost": 155,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Excess Food converted to Production when under construction",
