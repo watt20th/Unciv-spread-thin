@@ -2,12 +2,13 @@
    {
         "name": "Settler",
         "unitType": "Civilian",
-        "movement": 3,
+        "movement": 2,
         "cost": 150,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "Excess Food converted to Production when under construction",
-            "Requires at least [2] population"
+            "Requires at least [3] population", 
+            "[+2] Movement <before turn number [10]>" 
         ],
         "hurryCostModifier": 20
     },
