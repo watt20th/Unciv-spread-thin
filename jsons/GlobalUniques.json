@@ -9,7 +9,8 @@
 
         "[+25]% Strength <for [{AI player} {Military}] units>",
         "[+30]% Strength <for [Military] units> <vs cities> <when attacking>",
-
+        
+        "[1] units cost no maintenance", 
         "[+25]% maintenance costs <for [Military] units> <starting from the [Ancient era]>",
         "[+25]% maintenance costs <for [Military] units> <starting from the [Classical era]>",
         "[+25]% maintenance costs <for [Military] units> <starting from the [Medieval era]>",
@@ -18,6 +19,7 @@
         "[+25]% maintenance costs <for [Military] units> <starting from the [Modern era]>",
         "[+25]% maintenance costs <for [Military] units> <starting from the [Atomic era]>",
         "[+25]% maintenance costs <for [Military] units> <starting from the [Information era]>",
+        "[-90]% Production when constructing [Military] units [in all cities] <when below [1] [Gold]>", 
         "[-2] Unit Supply per city",
         "[-1] Unit Supply per [4] population [in all cities]",
     ]
