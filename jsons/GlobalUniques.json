@@ -11,7 +11,7 @@
 
         "[+15]% Strength <for [{AI player} {Military} {Major}] units>",
         "[+15]% Strength <for [Military] units> <vs cities>",
-        "[+200]% Strength <for [Military] units> <vs cities> <before the [Medieval era]>",
+        "[+200]% Strength <for [Military] units> <vs cities> <when attacking> <before the [Medieval era]>",
         
         "[5] units cost no maintenance <before the [Classical era]>", 
         "[3] units cost no maintenance <before the [Medieval era]>",
