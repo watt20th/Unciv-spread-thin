@@ -30,6 +30,6 @@
         "[-1] Unit Supply per [2] population [in all cities]",
         "[+5] Unit Supply per [5] population [in all cities]",
 
-        "A [Musketman] rebels <when below [1] [Gold]> <when number of [[Gold] Per Turn] is less than [1]> <with [5]% chance> ", 
+        "Rebel units may spawn <when below [1] [Gold]> <when number of [[Gold] Per Turn] is less than [1]> <with [5]% chance> ", 
     ]
 }
