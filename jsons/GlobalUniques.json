@@ -15,6 +15,7 @@
         "[5] units cost no maintenance <before the [Classical era]>", 
         "[3] units cost no maintenance <before the [Medieval era]>",
         "[1] units cost no maintenance",
+        
         "[+50]% maintenance costs <for [{Military} {Ancient era}] units>",
         "[+50]% maintenance costs <for [{Military} {Classical era}] units>",
         "[+75]% maintenance costs <for [{Military} {Medieval era}] units>",
@@ -24,8 +25,11 @@
         "[+150]% maintenance costs <for [{Military} {Atomic era}] units>",
         "[+150]% maintenance costs <for [{Military} {Information era}] units>",
         "[-90]% Production when constructing [Military] units [in all cities] <when below [1] [Gold]>", 
+        
         "[-2] Unit Supply per city",
         "[-1] Unit Supply per [2] population [in all cities]",
         "[+5] Unit Supply per [5] population [in all cities]",
+
+        "A [Musketman] rebels <when below [1] [Gold]> <when number of [[Gold] Per Turn] is less than [1]> <with [5]% chance> ", 
     ]
 }
