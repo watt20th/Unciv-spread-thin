@@ -26,7 +26,7 @@
         "[-90]% Production when constructing [Military] units [in all cities] <when below [1] [Gold]>", 
         "[-2] Unit Supply per city",
         "[-1] Unit Supply per [2] population [in all cities]",
-        "[2] Unit Supply per [5] population [in all cities] <in cities with less than [11] [Population]>",
-        "[5] Unit Supply per [5] population [in all cities] <in cities with at least [11] [Population]>",
+        "[+2] Unit Supply per [5] population [in all cities] <in cities with less than [11] [Population]>",
+        "[+5] Unit Supply per [5] population [in all cities] <in cities with at least [11] [Population]>",
     ]
 }
